@@ -1,0 +1,20 @@
+Beijing;22.9
+Burnie;16.8
+Kabul;21.9
+Bangkok;21.5
+El Paso;24.9
+Bridgetown;30.5
+Hobart;23.6
+Chiang Mai;22.0
+Dikson;0.3
+Bulawayo;27.4
+Karachi;34.6
+Hobart;22.0
+Petropavlovsk-Kamchatsky;-0.9
+Garissa;15.6
+Praia;33.0
+Murmansk;5.6
+Rome;20.3
+Conakry;39.9
+Bridgetown;26.2
+Washington, D.C.;8.0
